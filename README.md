@@ -1,5 +1,4 @@
-# Test01
-learning inteliji IDEA
+# Test 01
 
 Цель этого репозитория изучить работу гита с Intellij IDEA.
 
